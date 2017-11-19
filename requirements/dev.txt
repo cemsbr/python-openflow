@@ -44,7 +44,7 @@ requests==2.18.4          # via sphinx
 six==1.11.0               # via astroid, livereload, mando, pip-tools, pydocstyle, pylint, sphinx
 snowballstemmer==1.2.1    # via pydocstyle, sphinx
 sphinx-autobuild==0.7.1
-sphinx-bootstrap-theme==0.4.14
+sphinx-bootstrap-theme==0.6.0
 sphinx-rtd-theme==0.2.4
 sphinx==1.5.6
 tornado==4.5.2            # via livereload, sphinx-autobuild
