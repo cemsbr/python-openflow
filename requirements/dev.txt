@@ -36,7 +36,7 @@ pycodestyle==2.3.1        # via flake8, yala
 pydocstyle==2.0.0         # via yala
 pyflakes==1.5.0           # via flake8
 pygments==2.2.0           # via sphinx
-pylint==1.7.2             # via yala
+pylint==1.7.4             # via yala
 pytz==2017.2              # via babel
 pyyaml==3.12              # via sphinx-autobuild, watchdog
 radon==2.1.1              # via yala
