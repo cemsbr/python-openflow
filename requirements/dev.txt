@@ -28,7 +28,7 @@ mando==0.6.4              # via radon
 markupsafe==1.0           # via jinja2
 mccabe==0.6.1             # via flake8, pylint
 pathtools==0.1.2          # via sphinx-autobuild, watchdog
-pip-tools==1.9.0
+pip-tools==1.10.2
 pluggy==0.5.2             # via tox
 port-for==0.3.1           # via sphinx-autobuild
 py==1.4.34                # via tox
